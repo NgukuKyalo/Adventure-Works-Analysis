@@ -40,15 +40,7 @@ This report is split into two pages:
 ## 🛠️ Built With
 
 - Power BI Desktop
-- AdventureWorks sales dataset
-
-## 📂 Repository Structure
-
-```
-├── AdventureWorksSalesAnalysis.pbix   # Power BI report file
-├── data/                              # Source data (if included)
-└── README.md
-```
+- AdventureWorks sales dataset (https://www.kaggle.com/datasets/ukveteran/adventure-works)
 
 ## 🚀 Getting Started
 
@@ -56,7 +48,3 @@ This report is split into two pages:
 2. Open `AdventureWorksSalesAnalysis.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 3. Refresh data connections if needed
 4. Explore the Executive Summary and Detailed Insights pages
-
-## 📄 License
-
-Add your license here (e.g., MIT).
